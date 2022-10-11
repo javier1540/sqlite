@@ -1,0 +1,5 @@
+copiar elmojon.db a elmojon2.db
+en este caso se altera la tabla eliminando prenda y agregando 
+una columna por prenda que tenga clave foranea a la tabla 
+prendas. Es decir tendra laas columnas pantalon,chomba,campera
+que todas estas apuntan a la tabla prendas con clave foranea
